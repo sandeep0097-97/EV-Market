@@ -1,14 +1,14 @@
 # EV_customer_segmentation
 
-####Introduction
+#### Introduction
 
 To understand and unlock the full potential of India's electric vehicle market, we're embarking on a segmentation project. Through a combination of market research, customer surveys, and data analysis, we'll be dissecting the EV consumer base. Our aim is to uncover distinct customer segments, each with their own unique needs and preferences. By gaining these insights, we can tailor targeted strategies to effectively reach each segment and accelerate the overall growth of India's EV market.
 
-##Electric Vehicle Market Segmentation Analysis - jupyter notebook link
+## Electric Vehicle Market Segmentation Analysis - jupyter notebook link
 Dataset link
 Dataset Splitup link
 Final report link
-####Team members
+#### Team members
 Name	GitHub repo link
 Sandeep Singh Me Team Lead	GitHub Link
 Yeshwanth Reddy Vallela	GitHub Link
