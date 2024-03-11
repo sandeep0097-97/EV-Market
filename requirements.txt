@@ -1,0 +1,8 @@
+textblob
+numpy
+pandas
+seaborn
+tensorflow-cpu
+scikit-learn
+matplotlib
+flask
