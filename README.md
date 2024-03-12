@@ -24,7 +24,7 @@ Kiran Thomas V	GitHub Link
 
 Thulasiraman	GitHub Link
 
-Maria Plumber	GitHub Link
+Maria Plumber	GitHub [Link](https://github.com/mariaplumber/Feynn-Labs-2)
 
 ### Workflow
 
