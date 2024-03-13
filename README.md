@@ -22,7 +22,7 @@ Yeshwanth Reddy Vallela	GitHub Link
 
 Kiran Thomas V	GitHub Link
 
-Thulasiraman	GitHub Link
+Thulasiraman	GitHub [Link](https://github.com/Iamthulasiraman/Electric_vehicle_Segmentation)
 
 Maria Plumber	GitHub [Link](https://github.com/mariaplumber/Feynn-Labs-2)
 
