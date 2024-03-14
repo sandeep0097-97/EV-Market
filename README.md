@@ -16,11 +16,11 @@ Final report link
 
 Name	GitHub repo link
 
-Sandeep Singh Me Team Lead	GitHub Link
+Sandeep Singh Me Team Lead	GitHub [Link](https://github.com/sandeep0097-97/EV-Market)
 
 Yeshwanth Reddy Vallela	GitHub Link
 
-Kiran Thomas V	GitHub Link
+Kiran Thomas V	GitHub [Link](https://github.com/KiranJamesThomas/EV_market_segmentation_Kiran_Thomas_Team_Sandeep)
 
 Thulasiraman	GitHub [Link](https://github.com/Iamthulasiraman/Electric_vehicle_Segmentation)
 
