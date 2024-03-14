@@ -1,4 +1,5 @@
-# EV_customer_segmentation
+# EV_customer_segmentation(![360_F_553378481_GN2s3TjPC3RvoQzMlZ0BBAGAZLX0VQA1](https://github.com/sandeep0097-97/EV-Market/assets/93462547/ec62b844-d403-45be-a17c-67d77086834e)
+)
 
 #### Introduction
 
