@@ -18,7 +18,7 @@ Name	GitHub repo link
 
 Sandeep Singh Me Team Lead	GitHub [Link](https://github.com/sandeep0097-97/EV-Market)
 
-Yeshwanth Reddy Vallela	GitHub Link
+Yeshwanth Reddy Vallela	GitHub [Link](https://github.com/yesh069/EV-Segmentation?tab=readme-ov-file)
 
 Kiran Thomas V	GitHub [Link](https://github.com/KiranJamesThomas/EV_market_segmentation_Kiran_Thomas_Team_Sandeep)
 
